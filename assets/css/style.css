@@ -71,7 +71,7 @@ h1, h2, h3, h4, h5, h6 {
 #header {
   z-index: 997;
   transition: all 0.5s;
-  padding: 16px 0;
+  padding: 10px 0;
   background: #000;
 }
 #header .header-container {
@@ -320,10 +320,8 @@ h1, h2, h3, h4, h5, h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  /* background: url("../img/hero-bg.jpg") center center;
-  background-size: cover; */
   position: relative;
-  margin: 80px 0;
+  margin: 72px 0;
 }
 #hero .container {
   padding-top: 80px;
@@ -386,6 +384,73 @@ h1, h2, h3, h4, h5, h6 {
   #hero h1 {
     font-size: 32px;
     line-height: 36px;
+  }
+}
+#carouselExampleInterval{
+  min-height: 100vh;
+  min-width: 100vw;
+}
+.slide-1{
+  background-image: url(../img/slider/1.webp);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.slide-2{
+  background-image: url(../img/slider/2.webp);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.slide-3{
+  background-image: url(../img/slider/3.webp);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.slide-4{
+  background-image: url(../img/slider/4.webp);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+.slide-5{
+  background-image: url(../img/slider/5.webp);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
+@media (max-width: 768px) {
+  .slide-1{
+    position: relative;
+    margin-top: 0;
+    background-image: url(../img/slider/1-ph.webp);
+    background-size: cover;
+    background-position: center;
+  }
+  .slide-2{
+    position: relative;
+    margin-top: 0;
+    background-image: url(../img/slider/2-ph.webp);
+  }
+  .slide-3{
+    position: relative;
+    margin-top: 0;    
+    background-image: url(../img/slider/3-ph.webp);
+  }
+  .slide-4{    
+    position: relative;
+    margin-top: 0;    
+    background-image: url(../img/slider/4-ph.webp);
+  }
+  .slide-5{
+    position: relative;
+    margin-top: 0;    
+    background-image: url(../img/slider/5-ph.webp);
+    background-size: cover;
+    background-position: center;
+    
   }
 }
 
@@ -1280,4 +1345,17 @@ section {
   background: #00805d;
   color: #fff;
   text-decoration: none;
+}
+#footer .contact-btn{
+    color: #ffffff;
+    background-color: #bf9007;
+    border-color: #bf9007;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    border-radius: 30px 30px 30px 30px;
+    padding: 10px;
+}
+#footer .contact-btn:hover{
+    background-color: #ffffff;
+    color: #bf9007;
 }

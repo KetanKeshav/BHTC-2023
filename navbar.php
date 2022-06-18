@@ -9,18 +9,15 @@
             <li><a class="nav-link scrollto" href="#">Sponsorships</a></li>
             <li><a class="nav-link scrollto" href="#">Agenda</a></li>
             <li><a class="nav-link scrollto" href="#oc">Organizing Committee</a></li>
+            <li class="dropdown"><a href="#"><span>Previous Edition</span> <i class="bi bi-chevron-down"></i></a>
+              <ul>
+                <li><a href="https://attend.ieee.org/r10htc-2021/">R10 HTC</a></li>
+                <li><a href="https://bhtc.ieeebangalore.org/">BHTC 2020</a></li>
+              </ul>
+            </li>
             <li><a class="nav-link scrollto" href="#">Registration</a></li>
             <li><a class="nav-link scrollto" href="#">Contact</a></li>
-            <!-- <li class="dropdown"><a href="#"><span>SDG Knowledge</span> <i class="bi bi-chevron-down"></i></a>
-              <ul>
-                <li><a href="#">Sustainable Development Goal</a></li>
-                <li><a href="#">Key Topics</a></li>
-                <li><a href="#">2030 Agenda</a></li>
-                <li><a href="#">Capacity Development</a></li>
-                <li><a href="#">Publications</a></li>
-                <li><a href="#">Global Sustainable Development Report</a></li>
-              </ul>
-            </li> -->
+            
             <!-- <li class="dropdown"><a href="#"><span>Intergovernmental Processes</span> <i class="bi bi-chevron-down"></i></a>
               <ul>
                 <li><a href="#">High-level Political Forum on Sustainable Development</a></li>
