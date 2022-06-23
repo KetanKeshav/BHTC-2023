@@ -82,6 +82,9 @@
               are co-hosting this prestigious conference.
             </p>
           </div>
+          <div class="container" data-aos="fade-in" data-aos-delay="200 ">
+              <img src="./assets/img/SDG.png" class="img-fluid">
+            </div>
         </div>
       </div>
       </div>
