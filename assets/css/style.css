@@ -386,17 +386,17 @@ h1, h2, h3, h4, h5, h6 {
 }
 .slide-1{
   background-image: url(../img/slider/1.webp);
-  background-size: 100%;
+  background-size: 99%;
   min-height: 100vh;
 }
 .slide-2{
   background-image: url(../img/slider/2.webp);
-  background-size: 100%;
+  background-size: 99%;
   min-height: 100vh;
 }
 .slide-3{
   background-image: url(../img/slider/3.webp);
-  background-size: 100%;
+  background-size: 99%;
   min-height: 100vh;
 }
 
@@ -404,19 +404,19 @@ h1, h2, h3, h4, h5, h6 {
   .slide-1{
     position: relative;
     margin-top: 0;
-    background-image: url(../img/slider/1.webp);
+    background-image: url(../img/slider/s1-ph.webp);
     background-repeat: no-repeat;
   }
   .slide-2{
     position: relative;
     margin-top: 0;
-    background-image: url(../img/slider/2.webp);
+    background-image: url(../img/slider/s2-ph.webp);
     background-repeat: no-repeat;
   }
   .slide-3{
     position: relative;
     margin-top: 0;    
-    background-image: url(../img/slider/3.webp);
+    background-image: url(../img/slider/s3-ph.webp);
     background-repeat: no-repeat;
   }
 }
