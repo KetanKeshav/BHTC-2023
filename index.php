@@ -163,7 +163,7 @@
 
           <div class="col-lg-4 col-md-6 publication-item filter-c1">
             <div class="publication-wrap">
-              <img src="assets/img/oc/1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
               <div class="publication-info">
                 <h4>C1</h4>
                 <p>c1</p>
@@ -176,7 +176,7 @@
 
           <div class="col-lg-4 col-md-6 publication-item filter-c3">
             <div class="publication-wrap">
-              <img src="assets/img/oc/2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
               <div class="publication-info">
                 <h4>C3</h4>
                 <p>c3</p>
@@ -189,7 +189,7 @@
 
           <div class="col-lg-4 col-md-6 publication-item filter-c2">
             <div class="publication-wrap">
-              <img src="assets/img/oc/1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
               <div class="publication-info">
                 <h4>C2</h4>
                 <p>c2</p>
@@ -218,7 +218,7 @@
 
           <div class="col-lg-4 col-md-6 publication-item">
             <div class="publication-wrap">
-              <img src="assets/img/oc/1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
               <div class="publication-info">
                 <h4>C1</h4>
                 <p>c1</p>
@@ -231,7 +231,7 @@
 
           <div class="col-lg-4 col-md-6 publication-item">
             <div class="publication-wrap">
-              <img src="assets/img/oc/2.jpg" class="img-fluid" alt="">
+              <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
               <div class="publication-info">
                 <h4>C3</h4>
                 <p>c3</p>
@@ -244,7 +244,7 @@
 
           <div class="col-lg-4 col-md-6 publication-item">
             <div class="publication-wrap">
-              <img src="assets/img/oc/1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
               <div class="publication-info">
                 <h4>C2</h4>
                 <p>c2</p>
