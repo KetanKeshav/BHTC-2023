@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>BHTC</title>
+  <title>BHTC 2023</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -26,10 +26,7 @@
         </div>
         <div class="carousel-item slide-3" data-bs-interval="7000">
         </div>
-        <div class="carousel-item slide-4" data-bs-interval="7000">
-        </div>
-        <div class="carousel-item slide-5" data-bs-interval="7000">
-        </div>
+      
       </div>
       <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleInterval" data-bs-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
