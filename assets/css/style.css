@@ -385,12 +385,12 @@ h1, h2, h3, h4, h5, h6 {
   min-width: 100vw;
 }
 .slide-1{
-  background-image: url(../img/slider/1.webp);
+  background-image: url(../img/slider/3.webp);
   background-size: 99%;
   min-height: 100vh;
 }
 .slide-2{
-  background-image: url(../img/slider/2.webp);
+  background-image: url(../img/slider/3.webp);
   background-size: 99%;
   min-height: 100vh;
 }
