@@ -20,10 +20,10 @@
   <section id="hero" class="align-items-center">
     <div id="carouselExampleInterval" class="carousel slide carousel-fade" data-bs-ride="carousel">
       <div class="carousel-inner">
-        <div class="carousel-item slide-1 active" data-bs-interval="7000">
+        <!-- <div class="carousel-item slide-1 active" data-bs-interval="7000">
         </div>
         <div class="carousel-item slide-2" data-bs-interval="7000">
-        </div>
+        </div> -->
         <div class="carousel-item slide-3" data-bs-interval="7000">
         </div>
       
