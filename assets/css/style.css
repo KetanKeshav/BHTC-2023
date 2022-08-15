@@ -479,6 +479,36 @@ section {
 }
 
 /*--------------------------------------------------------------
+# call for papers
+--------------------------------------------------------------*/
+.callforpapers-nav .nav-tabs{
+  background-color: #333333;
+  padding: 8px 14px;
+  font-size: 14px;
+  color: #4ca146;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.callforpapers .callforpapers-nav .nav-link {
+  text-transform: uppercase;
+  color: ##4ca146;
+  border-radius: 0;
+  border: none;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.callforpapers .callforpapers-nav .nav-link.active {
+  text-transform: uppercase;
+  background-color: transparent;
+  border-color: transparent;
+  color: #fff;
+  border-bottom: 4px solid #4ca146;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/*--------------------------------------------------------------
 # About
 --------------------------------------------------------------*/
 .about .content h2 {
