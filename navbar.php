@@ -6,7 +6,7 @@
           <ul>
             <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
             <li><a class="nav-link scrollto" href="./assets/downloads/BHTC_2023.pdf" target="_blank" download="BHTC 2023">Call For Papers</a></li>
-            <li><a class="nav-link scrollto" href="#oc">Organizing Committee</a></li>
+            <li><a class="nav-link scrollto <?php if($page == "oc") echo 'active'; ?>" href="oc.php">Organizing Committee</a></li>
             <li><a class="nav-link scrollto" href="#">Fun & Facts</a></li>
             <li><a class="nav-link scrollto" href="#">Agenda</a></li>
             <li><a class="nav-link scrollto" href="#">Speakers</a></li>
