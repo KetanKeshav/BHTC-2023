@@ -328,60 +328,7 @@ Please note that all accepted papers that are registered and presented in the co
     </section> -->
     <!-- End publication Section -->
 
-    <!-- ======= OC Section ======= -->
-    <section id="oc" class="publication">
-      <div class="container">
-
-        <div class="section-title" data-aos="fade-left">
-          <h2>Organizing Committee</h2>
-        </div>
-
-        <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
-
-          <div class="col-lg-4 col-md-6 publication-item">
-            <div class="publication-wrap">
-              <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C1</h4>
-                <p>c1</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 publication-item">
-            <div class="publication-wrap">
-              <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C3</h4>
-                <p>c3</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 publication-item">
-            <div class="publication-wrap">
-              <img src="assets/img/oc/speaker2.png" class="img-fluid" alt="">
-              <div class="publication-info">
-                <h4>C2</h4>
-                <p>c2</p>
-                <div class="publication-links">
-                  <a href="" title="More Details"><i class="bx bx-link"></i></a>
-                </div>
-              </div>
-            </div>
-          </div>
-
-        </div>
-
-      </div>
-    </section>
-    <!-- End OC Section -->
+  
 
 
 
