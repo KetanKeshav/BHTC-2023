@@ -38,7 +38,7 @@
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/AloknathDe.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/Aloknath.svg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Chair-Elect, IEEE Bangalore Section</h4>
                             </div>
@@ -49,7 +49,7 @@
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/Sudarshan.webp" class="img-fluid" alt="">
+                            <img src="assets/img/oc/Sudarshan.svg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Chair-Elect,IEEE Mysuru Subsection</h4>
                             </div>
@@ -71,7 +71,7 @@
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/udayshankar.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/oc/udayshankar.svg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Hon. Secretary, NIE,Mysuru</h4>
                             </div>
@@ -79,11 +79,11 @@
                         <h4 class="mt-5">Mr. Uday Shankar Bhyrappa</h4>
                     </div>
 
-                    <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                    
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/rohini.jpeg" class="img-fluid" alt="">
+                            <img src="assets/img/oc/rohini.svg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Principal, NIE, Mysuru</h4>
                             </div>
@@ -115,18 +115,15 @@
                     </div>
                     
 
-                </div>
+               
 
                 <!-- General Co - Chair End -->
 
-                <div class="section-title mt-5" data-aos="fade-right">
-                </div>
-
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                               
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/Shobha.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/oc/shobha.svg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>MSRIT, Bangalore, ExeCom Member, IEEE Bangalore Section.</h4>
                             </div>
@@ -155,11 +152,11 @@
                         <h4 class="mt-5">Dr. Puneet Mishra</h4>
                     </div>
 
-                    <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+                    
 
 <div class="col-lg-4 col-md-6 publication-item">
     <div class="publication-wrap">
-        <img src="assets/img/oc/Param.jpg" class="img-fluid" alt="">
+        <img src="assets/img/oc/Param.svg" class="img-fluid" alt="">
         <div class="publication-info">
             <h4>GSSSIETW, Mysuru, Chair, IEEE Mysore Subsection</h4>
         </div>
@@ -181,7 +178,7 @@
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/bindut.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/oc/bindu.svg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>VVIET, Mysuru</h4>
                             </div>
@@ -189,13 +186,12 @@
                         <h4 class="mt-5">Chair:Dr. Bindu Thomas</h4>
                     </div>
 
-                </div>
+               
 
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/sandeep.jpg" class="img-fluid" alt="">
+                            <img src="assets/img/oc/sandeep.svg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>NIEIT, Mysuru.</h4>
                             </div>
@@ -223,7 +219,7 @@
     <h4 class="mt-5">Chair:Prof. Lokesh M</h4>
 </div>
 
-<div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+
 
 <div class="col-lg-4 col-md-6 publication-item">
     <div class="publication-wrap">
