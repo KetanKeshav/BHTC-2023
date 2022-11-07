@@ -4,8 +4,8 @@
       <div class="header-container d-flex align-items-center justify-content-between">
         <nav id="navbar" class="navbar">
           <ul>
-            <li><a class="nav-link scrollto active" href="index.php">Home</a></li>
-            <li><a class="nav-link scrollto" href="./assets/downloads/BHTC_2023.pdf" target="_blank" download="BHTC 2023">Call For Papers</a></li>
+            <li><a class="nav-link scrollto <?php if($page == "home") echo 'active'; ?>" href="index.php">Home</a></li>
+            <li><a class="nav-link scrollto" href="index.php#callforpapers">Call For Papers</a></li>
             <li><a class="nav-link scrollto <?php if($page == "oc") echo 'active'; ?>" href="oc.php">Organizing Committee</a></li>
             <li><a class="nav-link scrollto" href="#">Fun & Facts</a></li>
             <li><a class="nav-link scrollto" href="#">Agenda</a></li>

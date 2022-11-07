@@ -45,7 +45,7 @@
                         </div>
                         <h4 class="mt-5">Dr Aloknath DE</h4>
                     </div>
-                    
+
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -56,7 +56,7 @@
                         </div>
                         <h4 class="mt-5">Dr Sudarshan PatilKulkarni</h4>
                     </div>
-                                       
+
                 </div>
 
                 <!-- Advisory Committee End -->
@@ -79,7 +79,7 @@
                         <h4 class="mt-5">Mr. Uday Shankar Bhyrappa</h4>
                     </div>
 
-                    
+
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -90,7 +90,7 @@
                         </div>
                         <h4 class="mt-5">Dr. Rohini Nagapadma</h4>
                     </div>
-                    
+
 
                 </div>
 
@@ -113,13 +113,13 @@
                         </div>
                         <h4 class="mt-5">Chair:Dr. Archana N V</h4>
                     </div>
-                    
 
-               
 
-                <!-- General Co - Chair End -->
 
-                               
+
+                    <!-- General Co - Chair End -->
+
+
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
@@ -130,7 +130,7 @@
                         </div>
                         <h4 class="mt-5">Co-Chair:Dr. Shobha K R</h4>
                     </div>
-                    
+
 
                 </div>
 
@@ -152,17 +152,17 @@
                         <h4 class="mt-5">Dr. Puneet Mishra</h4>
                     </div>
 
-                    
 
-<div class="col-lg-4 col-md-6 publication-item">
-    <div class="publication-wrap">
-        <img src="assets/img/oc/Param.svg" class="img-fluid" alt="">
-        <div class="publication-info">
-            <h4>GSSSIETW, Mysuru, Chair, IEEE Mysore Subsection</h4>
-        </div>
-    </div>
-    <h4 class="mt-5">Dr. Parameshachari B D</h4>
-</div>
+
+                    <div class="col-lg-4 col-md-6 publication-item">
+                        <div class="publication-wrap">
+                            <img src="assets/img/oc/Param.svg" class="img-fluid" alt="">
+                            <div class="publication-info">
+                                <h4>GSSSIETW, Mysuru, Chair, IEEE Mysore Subsection</h4>
+                            </div>
+                        </div>
+                        <h4 class="mt-5">Dr. Parameshachari B D</h4>
+                    </div>
 
                 </div>
 
@@ -186,7 +186,7 @@
                         <h4 class="mt-5">Chair:Dr. Bindu Thomas</h4>
                     </div>
 
-               
+
 
 
                     <div class="col-lg-4 col-md-6 publication-item">
@@ -199,70 +199,70 @@
                         <h4 class="mt-5">Co-Chair:Dr. Sandeep Kumar KJ</h4>
                     </div>
 
-                <!-- Organizing Co-Chair End -->
+                    <!-- Organizing Co-Chair End -->
 
-                <!-- Organizing Secretary -->
+                    <!-- Organizing Secretary -->
 
-                <div class="section-title mt-5" data-aos="fade-right">
-                    <h2>Finance Committee</h2>
-                </div>
-               
-                    <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
-
-<div class="col-lg-4 col-md-6 publication-item">
-    <div class="publication-wrap">
-        <img src="assets/img/oc/Lokesh.jpg" class="img-fluid" alt="">
-        <div class="publication-info">
-            <h4>NIEIT, Mysuru.</h4>
-        </div>
-    </div>
-    <h4 class="mt-5">Chair:Prof. Lokesh M</h4>
-</div>
-
-
-
-<div class="col-lg-4 col-md-6 publication-item">
-    <div class="publication-wrap">
-        <img src="assets/img/oc/VeenaMG.jpg" class="img-fluid" alt="">
-        <div class="publication-info">
-            <h4>JSSSTU (SJCE), Mysuru.</h4>
-        </div>
-    </div>
-    <h4 class="mt-5">Co-Chair:Prof. M. G. Veena</h4>
-</div>
-
-
-
- 
-
-
-                </div>
-
-                <!-- Organizing Secretary End -->
-
-                <!-- General Co - Chair -->
-
-                <div class="section-title mt-5" data-aos="fade-right">
-                    <h2>Industry Engagement Committee</h2>
-                </div>
-
-                <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
-
-                    <div class="col-lg-4 col-md-6 publication-item">
-                        <div class="publication-wrap">
-                            <img src="assets/img/oc/Shashidhar.jpeg" class="img-fluid" alt="">
-                            <div class="publication-info">
-                                <h4>L&T Technology Services, India.</h4>
-                            </div>
-                        </div>
-                        <h4 class="mt-5">Chair:Dr. Shashidhar Dongre</h4>
+                    <div class="section-title mt-5" data-aos="fade-right">
+                        <h2>Finance Committee</h2>
                     </div>
 
-                </div>
+                    <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
 
-                <!-- General Co - Chair End -->
-             
-            </div>
+                        <div class="col-lg-4 col-md-6 publication-item">
+                            <div class="publication-wrap">
+                                <img src="assets/img/oc/Lokesh.jpg" class="img-fluid" alt="">
+                                <div class="publication-info">
+                                    <h4>NIEIT, Mysuru.</h4>
+                                </div>
+                            </div>
+                            <h4 class="mt-5">Chair:Prof. Lokesh M</h4>
+                        </div>
+
+
+
+                        <div class="col-lg-4 col-md-6 publication-item">
+                            <div class="publication-wrap">
+                                <img src="assets/img/oc/VeenaMG.jpg" class="img-fluid" alt="">
+                                <div class="publication-info">
+                                    <h4>JSSSTU (SJCE), Mysuru.</h4>
+                                </div>
+                            </div>
+                            <h4 class="mt-5">Co-Chair:Prof. M. G. Veena</h4>
+                        </div>
+
+
+
+
+
+
+                    </div>
+
+                    <!-- Organizing Secretary End -->
+
+                    <!-- General Co - Chair -->
+
+                    <div class="section-title mt-5" data-aos="fade-right">
+                        <h2>Industry Engagement Committee</h2>
+                    </div>
+
+                    <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+
+                        <div class="col-lg-4 col-md-6 publication-item">
+                            <div class="publication-wrap">
+                                <img src="assets/img/oc/Shashidhar.jpeg" class="img-fluid" alt="">
+                                <div class="publication-info">
+                                    <h4>L&T Technology Services, India.</h4>
+                                </div>
+                            </div>
+                            <h4 class="mt-5">Chair:Dr. Shashidhar Dongre</h4>
+                        </div>
+
+                    </div>
+
+                    <!-- General Co - Chair End -->
+
+                </div>
         </section>
         <!-- End OC Section -->
 
