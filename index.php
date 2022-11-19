@@ -156,15 +156,15 @@
                 <tbody>
                   <tr>
                     <td>Paper Submission Opens</td>
-                    <td>Aug 15, 2022</td>
+                    <td>Aug 15, 2023</td>
                   </tr>
                   <tr>
                     <td>Full Paper Submission</td>
-                    <td>Nov 30, 2022</td>
+                    <td>Nov 30, 2023</td>
                   </tr>
                   <tr>
                     <td>Paper Acceptance Notification</td>
-                    <td>Dec 15, 2022</td>
+                    <td>Dec 15, 2023</td>
                   </tr>
                   <tr>
                     <td>Final Manuscript Submissions & Early Registration</td>
@@ -202,7 +202,7 @@
               Below are some useful instructions to assist the authors to submit their papers for BHTC 2023 -
               <br>
               <br>
-              Papers submitted to BHTC 2022 shall contain original work by the author(s) that have not been published or submitted for publication elsewhere. The IEEE anti- plagiarism policy is applicable to all submissions. The author(s) are solely responsible for any plagiarized submission.
+              Papers submitted to BHTC 2023 shall contain original work by the author(s) that have not been published or submitted for publication elsewhere. The IEEE anti- plagiarism policy is applicable to all submissions. The author(s) are solely responsible for any plagiarized submission.
 
               <br>
               <br>

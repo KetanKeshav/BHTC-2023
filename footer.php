@@ -6,7 +6,7 @@
         <div class="row">
 
           <div class="col-lg-4 col-md-6 footer-contact">
-            <h3>BHTC-2022</h3>
+            <h3>BHTC-2023</h3>
             <div class="container">
               <img src="./assets/img/Bangalore-Section.png" class="img-fluid">
             </div>
@@ -42,8 +42,8 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Quick Links</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i><a href="https://bhtc-2022.ieeebangalore.org/">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i><a href="https://bhtc-2022.ieeebangalore.org/#overview">About</a></li>
+              <li><i class="bx bx-chevron-right"></i><a href="https://bhtc-2023.ieeebangalore.org/">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i><a href="https://bhtc-2023.ieeebangalore.org/#overview">About</a></li>
             </ul>
           </div>
           <div class="col-lg-2 col-md-6 footer-links">
