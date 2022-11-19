@@ -156,19 +156,19 @@
                 <tbody>
                   <tr>
                     <td>Paper Submission Opens</td>
-                    <td>Aug 15, 2023</td>
+                    <td>Aug 15, 2022</td>
                   </tr>
                   <tr>
                     <td>Full Paper Submission</td>
-                    <td>Nov 30, 2023</td>
+                    <td>Dec 15, 2022</td>
                   </tr>
                   <tr>
                     <td>Paper Acceptance Notification</td>
-                    <td>Dec 15, 2023</td>
+                    <td>Jan 10, 2023</td>
                   </tr>
                   <tr>
                     <td>Final Manuscript Submissions & Early Registration</td>
-                    <td>Jan 21, 2023</td>
+                    <td>Jan 31, 2023</td>
                   </tr>
                   <tr>
                     <td>Final Registration</td>
