@@ -75,7 +75,7 @@
             </p>
             <br>
             <p>
-              B- HTC 2023 will be held at NIE Institute of Technology, Mysuru, Karnataka, India from 24th-26th
+              B- HTC 2023 will be held at JSS Medical College [JSS Academy of Higher Education and Research], Mysuru from 24th-26th
               March, 2023 We are delighted to announce that the IEEE Mysuru subsection and the Bangalore Section
               are co-hosting this prestigious conference.
             </p>
