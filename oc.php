@@ -43,7 +43,7 @@
                                 <h4>Chancellor, JSS AHER, Mysuru</h4>
                             </div>
                         </div>
-                        <h4 class="mt-5">His Holiness Sri Shivarathri Deshikendra Mahaswamiji</h4>
+                        <center><h4 class="mt-5">His Holiness Sri Shivarathri Deshikendra Mahaswamiji</h4></center>
                     </div>
 
 
