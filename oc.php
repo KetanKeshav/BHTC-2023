@@ -40,7 +40,7 @@
                         <div class="publication-wrap">
                             <img src="assets/img/oc/1.png" class="img-fluid" alt="">
                             <div class="publication-info">
-                                <h4>, Chancellor, JSS AHER, Mysuru</h4>
+                                <h4>Chancellor, JSS AHER, Mysuru</h4>
                             </div>
                         </div>
                         <h4 class="mt-5">His Holiness Sri Shivarathri Deshikendra Mahaswamiji</h4>
@@ -49,7 +49,7 @@
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/B.Suresh.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/B. Suresh.png" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>Pro-Chancellor, JSS AHER, Mysuru</h4>
                             </div>
