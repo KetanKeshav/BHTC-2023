@@ -54,7 +54,7 @@
                                 <h4>Pro-Chancellor, JSS AHER, Mysuru</h4>
                             </div>
                         </div>
-                        <h4 class="mt-5">Dr. B Suresh</h4>
+                        <center><h4 class="mt-5">Dr. B Suresh</h4></center>
                     </div>
 
                 </div>
@@ -72,7 +72,7 @@
                                 <h4>Chair-Elect, IEEE Bangalore Section</h4>
                             </div>
                         </div>
-                        <h4 class="mt-5">Dr Aloknath DE</h4>
+                        <center><h4 class="mt-5">Dr Aloknath DE</h4></center>
                     </div>
 
 
@@ -83,7 +83,7 @@
                                 <h4>Joint Director - Technical Education Division, JSS Mahavidyapeetha, Mysuru.</h4>
                             </div>
                         </div>
-                        <h4 class="mt-5">Dr.H.R.Mahadevaswamy</h4>
+                        <center><h4 class="mt-5">Dr.H.R.Mahadevaswamy</h4></center>
                     </div>
 
                 </div>
@@ -105,7 +105,7 @@
                                 <h4>Director of ResearchJSS, AHER</h4>
                             </div>
                         </div>
-                        <h4 class="mt-5">Chair: Dr.Prashant Vishwanath</h4>
+                        <center><h4 class="mt-5">Chair: Dr.Prashant Vishwanath</h4></center>
                     </div>
 
 
@@ -116,7 +116,7 @@
                                 <h4>MSRIT, Bangalore, ExeCom Member, IEEE Bangalore Section.</h4>
                             </div>
                         </div>
-                        <h4 class="mt-5">Co-Chair: Dr. Shobha K R</h4>
+                        <center><h4 class="mt-5">Co-Chair: Dr. Shobha K R</h4></center>
                     </div>
 
 
@@ -137,7 +137,7 @@
                                 <h4>Vice-Chair Professional Activities</h4>
                             </div>
                         </div>
-                        <h4 class="mt-5">Dr. Puneet Mishra</h4>
+                        <center><h4 class="mt-5">Dr. Puneet Mishra</h4></center>
                     </div>
 
 
@@ -149,7 +149,7 @@
                                 <h4>GSSSIETW, Mysuru, Chair, IEEE Mysore Subsection</h4>
                             </div>
                         </div>
-                        <h4 class="mt-5">Dr. Parameshachari B D</h4>
+                        <center><h4 class="mt-5">Dr. Parameshachari B D</h4></center>
                     </div>
 
                 </div>
@@ -171,7 +171,7 @@
                                 <h4>SJCE (JSS STU), Mysuru, 2023 Chair, IEEE Mysuru Subsection</h4>
                             </div>
                         </div>
-                        <h4 class="mt-5">Chair: Dr. Sudarshan PatilKulkarni</h4>
+                        <center><h4 class="mt-5">Chair: Dr. Sudarshan PatilKulkarni</h4></center>
                     </div>
 
 
@@ -182,7 +182,7 @@
                                 <h4>NIEIT, Mysuru.</h4>
                             </div>
                         </div>
-                        <h4 class="mt-5">Co-Chair: Dr. Sandeep Kumar KJ</h4>
+                        <center><h4 class="mt-5">Co-Chair: Dr. Sandeep Kumar KJ</h4></center>
                     </div>
 
                     <!-- Organizing Co-Chair End -->
@@ -202,7 +202,7 @@
                                     <h4>NIEIT, Mysuru.</h4>
                                 </div>
                             </div>
-                            <h4 class="mt-5">Chair: Prof. Lokesh M</h4>
+                            <center><h4 class="mt-5">Chair: Prof. Lokesh M</h4></center>
                         </div>
 
 
@@ -214,7 +214,7 @@
                                     <h4>JSSSTU (SJCE), Mysuru.</h4>
                                 </div>
                             </div>
-                            <h4 class="mt-5">Co-Chair: Prof. M. G. Veena</h4>
+                            <center><h4 class="mt-5">Co-Chair: Prof. M. G. Veena</h4></center>
                         </div>
 
 
