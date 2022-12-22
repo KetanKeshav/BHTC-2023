@@ -134,7 +134,7 @@
                         <div class="publication-wrap">
                             <img src="assets/img/oc/Dr. Puneet.png" class="img-fluid" alt="">
                             <div class="publication-info">
-                                <h4>Vice-Chair Professional Activities</h4>
+                                <h4>Vice-Chair Professional Activities, India Council, 2020 Chair, IEEE Bangalore Section</h4>
                             </div>
                         </div>
                         <center><h4 class="mt-5">Dr. Puneet Mishra</h4></center>
@@ -146,7 +146,7 @@
                         <div class="publication-wrap">
                             <img src="assets/img/oc/Dr. Parameshachari B D.png" class="img-fluid" alt="">
                             <div class="publication-info">
-                                <h4>GSSSIETW, Mysuru, Chair, IEEE Mysore Subsection</h4>
+                                <h4>Professor, Dept. of ECE, Nitte Meenakshi Institute of Technology.</h4>
                             </div>
                         </div>
                         <center><h4 class="mt-5">Dr. Parameshachari B D</h4></center>
