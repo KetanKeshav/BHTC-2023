@@ -177,7 +177,7 @@
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/Ravichandra.jpg.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/Ravichandra.jpg" class="img-fluid" alt="">
                             <div class="publication-info">
                                 <h4>MIT, Mysuru.</h4>
                             </div>
