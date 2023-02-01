@@ -177,12 +177,12 @@
 
                     <div class="col-lg-4 col-md-6 publication-item">
                         <div class="publication-wrap">
-                            <img src="assets/img/oc/Dr. Sandeep Kumar K J, NIEIT, Mysore.png" class="img-fluid" alt="">
+                            <img src="assets/img/oc/Ravichandra.jpg.png" class="img-fluid" alt="">
                             <div class="publication-info">
-                                <h4>NIEIT, Mysuru.</h4>
+                                <h4>MIT, Mysuru.</h4>
                             </div>
                         </div>
-                        <center><h4 class="mt-5">Co-Chair: Dr. Sandeep Kumar KJ</h4></center>
+                        <center><h4 class="mt-5">Co-Chair: Dr. Ravichandra Kulkarni​</h4></center>
                     </div>
 
                     <!-- Organizing Co-Chair End -->
