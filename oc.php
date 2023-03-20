@@ -204,9 +204,6 @@
                             </div>
                             <center><h4 class="mt-5">Chair: Prof. Lokesh M</h4></center>
                         </div>
-
-
-
                         <div class="col-lg-4 col-md-6 publication-item">
                             <div class="publication-wrap">
                                 <img src="assets/img/oc/Dr. M. G. Veena, SJCE (JSS STU), Mysuru.png" class="img-fluid" alt="">
@@ -217,11 +214,49 @@
                             <center><h4 class="mt-5">Co-Chair: Prof. M. G. Veena</h4></center>
                         </div>
 
+                    </div>
 
+                    <div class="section-title mt-5" data-aos="fade-right">
+                        <h2>Publication Committee</h2>
+                    </div>
 
+                    <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
 
+                        <div class="col-lg-4 col-md-6 publication-item">
+                            <div class="publication-wrap">
+                                <img src="assets/img/oc/chengappa.png" class="img-fluid" alt="">
+                                <div class="publication-info">
+                                    <h4>HPE</h4>
+                                </div>
+                            </div>
+                            <center><h4 class="mt-5">Chair: Dr. Chengappa MR</h4></center>
+                        </div>
+                    </div>
 
+                    <div class="section-title mt-5" data-aos="fade-right">
+                        <h2>Web & IT Committee</h2>
+                    </div>
 
+                    <div class="row publication-container" data-aos="fade-up" data-aos-delay="200">
+
+                        <div class="col-lg-4 col-md-6 publication-item">
+                            <div class="publication-wrap">
+                                <img src="assets/img/oc/chengappa.png" class="img-fluid" alt="">
+                                <div class="publication-info">
+                                    <h4>HPE</h4>
+                                </div>
+                            </div>
+                            <center><h4 class="mt-5">Chair: Dr. Chengappa MR</h4></center>
+                        </div>
+                        <div class="col-lg-4 col-md-6 publication-item">
+                            <div class="publication-wrap">
+                                <img src="assets/img/oc/ketan.png" class="img-fluid" alt="">
+                                <div class="publication-info">
+                                    <h4>Gupshup</h4>
+                                </div>
+                            </div>
+                            <center><h4 class="mt-5">Co-Chair: Mr. Ketan K</h4></center>
+                        </div>
                     </div>
 
                     <!-- Organizing Secretary End -->
